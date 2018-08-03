@@ -17,7 +17,7 @@
   "licenses": [
     {
       "type": "ISC",
-      "url": "https://github.com/nickcernis/grunt-wptools/blob/master/LICENSE-ISC"
+      "url": "https://github.com/nickcernis/grunt-wptools/blob/master/LICENSE"
     }
   ],
   "engines": {

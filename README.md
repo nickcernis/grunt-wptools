@@ -1,5 +1,7 @@
 # grunt-wptools
 
+![License](https://img.shields.io/github/license/nickcernis/grunt-wptools.svg?style=for-the-badge)
+
 > Check WordPress plugin ’tested up to’ headers and compare with versions from the wordpress.org API.
 
 This Grunt plugin helps to check that your 'tested up to' and 'WC tested up to' headers have not fallen behind the latest versions of WordPress and WooCommerce. It's useful prior to releasing a plugin, or for automated testing to check 'tested up to' versions have not fallen behind.
