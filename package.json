@@ -1,0 +1,40 @@
+{
+  "name": "grunt-wptools",
+  "description": "Check WordPress plugin ’tested up to’ headers and compare with latest versions from the WP.org API.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/nickcernis/grunt-wptools",
+  "author": {
+    "name": "Nick Cernis",
+    "email": "nick@cern.is"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nickcernis/grunt-wptools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nickcernis/grunt-wptools/issues"
+  },
+  "licenses": [
+    {
+      "type": "ISC",
+      "url": "https://github.com/nickcernis/grunt-wptools/blob/master/LICENSE-ISC"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "@ndc/wptools": "^0.1.0"
+  }
+}
